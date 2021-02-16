@@ -11,5 +11,6 @@ def multiply(a, b):
 def divide(a, b):
 	return a/b
 
-def test_p(a, b):
-	return a+b
+def test_main(a,b):
+	return a-b
+
